@@ -1,0 +1,29 @@
+{
+    "development": {
+        "username": "ylwywasroehlcj",
+        "password": "4b40889e9f549582e6d21fd9b9e3bd2bc4316965a4a1ec4c08d8ebe314c95ddd",
+        "database": "d841lg0vhkpvaj",
+        "host": "ec2-3-91-112-166.compute-1.amazonaws.com",
+        "dialect": "postgres",
+        "dialectOptions": {
+            "ssl": true
+        }
+    },
+    "test": {
+        "username": "postgres",
+        "password": "nguyencaotri8137",
+        "database": "TyPeeDB",
+        "host": "localhost",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "ylwywasroehlcj",
+        "password": "4b40889e9f549582e6d21fd9b9e3bd2bc4316965a4a1ec4c08d8ebe314c95ddd",
+        "database": "d841lg0vhkpvaj",
+        "host": "ec2-3-91-112-166.compute-1.amazonaws.com",
+        "dialect": "postgres",
+        "dialectOptions": {
+            "ssl": true
+        }
+    }
+}

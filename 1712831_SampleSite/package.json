@@ -1,0 +1,32 @@
+{
+  "name": "1712831",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvminh/HCMUS-EC-20B05.git"
+  },
+  "author": "Tri Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvminh/HCMUS-EC-20B05/issues"
+  },
+  "homepage": "https://github.com/lvminh/HCMUS-EC-20B05#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.5.0",
+    "heroku": "^7.42.1",
+    "nodemon": "^2.0.2",
+    "pg": "^7.18.2",
+    "pg-hstore": "^2.3.3",
+    "rack": "^0.1.6",
+    "sequelize": "^5.21.5",
+    "sequelize-cli": "^5.5.1"
+  }
+}
